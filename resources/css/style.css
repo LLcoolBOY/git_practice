@@ -46,14 +46,11 @@ body{
     width: 100%;
 }
 
-#I1{
-    /* background-image: url("../images/background.jpg");    
-    background-size: cover; */
-    background-color: rgb(89, 0, 255);    
-}
+
 
 #I1a{
     width: 1200px;    
+    /* width: 80%; */
     height: 700px;
     background-image: url("../images/background.jpg");
     margin: 0 auto;
@@ -84,12 +81,12 @@ body{
 }
 
 #main_grid #I2{
-    background-color: rgb(9, 255, 0);
+    /* background-color: rgb(9, 255, 0); */
     height: 700px;
 }
 
 #I2h1{
-    background-color: aqua;    
+    /* background-color: aqua;     */
     width: 100%;   
     position: relative;   
     top: 50px; 
@@ -98,7 +95,7 @@ body{
 }
 
 #I2h4{
-    background-color: azure;    
+    /* background-color: azure;     */
     width: 100%;   
     position: relative;     
     top: 70px;   
@@ -107,8 +104,8 @@ body{
 }
 
 #I2a{
-    height: 65%;
-    background-color: blue;
+    height: fit-content;
+    /* background-color: blue; */
     width: 1000px;    
     margin-left: auto;
     margin-right: auto;
@@ -123,7 +120,7 @@ body{
 .I2aa{
     width: 300px;
     height: 200px;
-    background-color: rgb(22, 48, 11);
+    /* background-color: rgb(22, 48, 11); */
 }
 
 .I2aaa{
@@ -176,13 +173,13 @@ body{
 
 
 #main_grid #I4{
-    background-color: aqua;    
+    /* background-color: aqua;     */
     height: 200px;
     width: 100%;
 }
 
 #main_grid #I5{
-    background-color: rgb(255, 0, 242);    
+    /* background-color: rgb(255, 0, 242);     */
     height: 100px;
     width: 100%;
 }
